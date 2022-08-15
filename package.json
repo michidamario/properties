@@ -1,0 +1,23 @@
+{
+  "name": "properties",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michidamario/properties.git"
+  },
+  "author": "michelle damario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michidamario/properties/issues"
+  },
+  "homepage": "https://github.com/michidamario/properties#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "jest": "^28.1.3"
+  }
+}
